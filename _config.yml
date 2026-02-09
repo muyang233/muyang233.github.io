@@ -1,0 +1,19 @@
+title: "My Blog"
+description: "This is Rain's blog ^_^"
+baseurl: ""
+url: "https://muyang233.github.io"
+
+# 主题设置（可选）
+theme: minima  # GitHub默认主题
+
+# 导航
+navigation:
+  - title: MainPage
+    url: /
+  - title: About
+    url: /about.html
+
+# 构建设置
+markdown: kramdown
+plugins:
+  - jekyll-feed
