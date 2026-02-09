@@ -1,4 +1,4 @@
-title: "My Blog"
+title: "Haoyang Wu Rain"
 description: "This is Rain's blog ^_^"
 baseurl: ""
 url: "https://muyang233.github.io"
@@ -8,7 +8,7 @@ theme: minima  # GitHub默认主题
 
 # 导航
 navigation:
-  - title: MainPage
+  - title: Main Page
     url: /
   - title: About
     url: /about.html
