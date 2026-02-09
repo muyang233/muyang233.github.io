@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MainPage
+title: Main Page
 ---
 
 # Welcome to Rain's blog! ^_^
